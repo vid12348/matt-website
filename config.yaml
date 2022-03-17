@@ -48,7 +48,7 @@ params:
 
   label:
     text: ""
-    icon: /apple-touch-icon.png
+    icon: /dog.jpg
     iconHeight: 35
 
   # profile-mode
