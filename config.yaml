@@ -1,5 +1,5 @@
 baseURL: "https://mattmarsh.tech"
-title: Marsh Tech
+title: Matthew's Workshop
 paginate: 5
 theme: hugo-PaperMod
 
@@ -47,14 +47,14 @@ params:
     safari_pinned_tab: "/images/dog.jpg"
 
   label:
-    text: "logo"
+    text: "mattmarsh.tech"
     icon: "images/dog.jpg"
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: MattMarsh.Tech
+    title: Matthew Marsh's Projects and Blog
     subtitle: "Welcome!"
     imageUrl: "/images/dog.jpg"
     imageWidth: 150
