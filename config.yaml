@@ -19,7 +19,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["/dog.jpg"]
+  images: ["/images/dog.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark
   disableThemeToggle: true
@@ -40,15 +40,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "/dog.jpg"
-    favicon16x16: "/favicon-16x16.png"
-    favicon32x32: "/favicon-32x32.png"
-    apple_touch_icon: "/apple-touch-icon.png"
-    safari_pinned_tab: "/dog.jpg"
+    favicon: "/images/dog.jpg"
+    favicon16x16: "/images/favicon-16x16.png"
+    favicon32x32: "/images/favicon-32x32.png"
+    apple_touch_icon: "/images/apple-touch-icon.png"
+    safari_pinned_tab: "/images/dog.jpg"
 
   label:
-    text: ""
-    icon: /dog.jpg
+    text: "logo"
+    icon: "images/dog.jpg"
     iconHeight: 35
 
   # profile-mode
