@@ -61,7 +61,7 @@ params:
     imageHeight: 150
     imageTitle: img
     buttons:
-      - name: Posts
+      - name: Click here to view my posts
         url: posts
     #  - name: Tags
     #    url: tags
