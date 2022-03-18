@@ -7,5 +7,5 @@ comments: true
 params:
     ShowShareButtons: true
 ---
-![](/images/Banner.png) 
+![](/images/banners/banner.png) 
 
