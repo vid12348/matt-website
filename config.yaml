@@ -74,8 +74,8 @@ params:
   socialIcons:
     #- name: twitter
     #  url: "https://twitter.com/"
-    #- name: stackoverflow
-    #  url: "https://stackoverflow.com"
+    - name: LinkedIn
+      url: "https://www.linkedin.com/in/matthewdmarsh/"
     - name: Github
       url: "https://github.com/vid12348"
 
