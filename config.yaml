@@ -41,9 +41,9 @@ params:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
     favicon: "/images/dog.jpg"
-    favicon16x16: "/images/favicon-16x16.png"
-    favicon32x32: "/images/favicon-32x32.png"
-    apple_touch_icon: "/images/apple-touch-icon.png"
+    favicon16x16: "/images/favicon/favicon-16x16.png"
+    favicon32x32: "/images/favicon/favicon-32x32.png"
+    apple_touch_icon: "/images/favicon/apple-touch-icon.png"
     safari_pinned_tab: "/images/dog.jpg"
 
   label:
