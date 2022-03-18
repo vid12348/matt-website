@@ -1,7 +1,7 @@
 ---
-title: "Car Startup Sound"
+title: "Car Startup Sound Project"
 date: 2022-03-17T00:49:00-04:00
-draft: true
+draft: false
 author: ["Matthew Marsh"]
 comments: true
 params:
@@ -15,5 +15,15 @@ params:
 ![](/images/bar.png) 
 
 The idea behind the project was to make a small speaker box in order to play an MP3 file the moment I start my car. Justin created the fusion models for this and put together a parts list on Amazon which I used.
-### The main component
-![](/images/carstartupsound/musicbox4.jpg)
+### Components:
+
+[The main board](https://www.amazon.com/gp/product/B01M35VHY5)
+![](/images/carstartupsound/board.jpg)
+
+[The speaker itself](https://www.amazon.com/gp/product/B00XW2NPTG)
+![](/images/carstartupsound/speaker.jpg)
+
+[The cable extension](https://www.amazon.com/gp/product/B0134XUJN2)
+![](/images/carstartupsound/adapter.jpg)
+
+[The 3D printed box](/images/carstartupsound/musicbox4.jpg)
