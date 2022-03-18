@@ -19,7 +19,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["/images/banners/banner.png"]
+  images: ["/images/banners/banner3.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark
   disableThemeToggle: true
