@@ -26,4 +26,5 @@ The idea behind the project was to make a small speaker box in order to play an 
 [The cable extension](https://www.amazon.com/gp/product/B0134XUJN2)
 ![](/images/carstartupsound/adapter.jpg)
 
-[The 3D printed box](/images/carstartupsound/musicbox4.jpg)
+The 3D printed box
+![](/images/carstartupsound/musicbox4.jpg)
