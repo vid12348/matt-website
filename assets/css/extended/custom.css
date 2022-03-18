@@ -1,0 +1,10 @@
+.gallery {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.gallery > img {
+    object-fit: contain;
+    width: auto;
+    margin: 10px;
+}

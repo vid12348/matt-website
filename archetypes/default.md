@@ -6,6 +6,7 @@ author: ["Matthew Marsh"]
 comments: true
 params:
     ShowShareButtons: true
+    cover.image: ""
 ---
 ![](/images/banners/banner.png) 
 

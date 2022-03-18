@@ -3,14 +3,11 @@ title: "Car Startup Sound Project"
 date: 2022-03-17T00:49:00-04:00
 draft: false
 author: ["Matthew Marsh"]
-cover:
-    image: "/images/carstartupsound/musicboxcover.png"
-    alt: ""
-    caption: ""
-    relative: false
 comments: true
 params:
     ShowShareButtons: true
+cover.image: "/images/carstartupsound/musicboxcover.png"
+
 ---
 ![](/images/banners/banner.png) 
 
@@ -51,7 +48,8 @@ Used a 3D model that Justin made.
 2. While the 3D print was going (It took round 40 hours if I remember correctly) I prepared the board and speaker. This was pretty much just removing the button and the speaker the circut board came with and bridging the connections that the button was originally connected to with a bead of solder. The only other thing I had to do was attach the larger speaker that I purchased on Amazon to the connections I removed the default speaker from.
 
 3. After the box was fully printed, I did some test-fitting, sanding, and drilling to ensure that all of the parts fit where I wanted them to fit.
-![Device after test Fitting](/images/carstartupsound/musicbox11.jpg) 
+{{< gallery "/images/carstartupsound/musicbox11.jpg" >}}
+
 
 4. The third step I took, which was completely optional, was painting the 3D Printed box. I used Rust-Oleum red and black spraypaint and did two coats. I used red and black because I wanted to fit the theme I am going for with my car.
 ![Device when physically complete](/images/carstartupsound/musicboxdouble.png) 
