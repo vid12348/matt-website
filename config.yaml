@@ -56,9 +56,9 @@ params:
     enabled: true # needs to be explicitly set
     title: Matthew Marsh's Projects and Blog
     subtitle: "Welcome!"
-    imageUrl: "/images/dog.jpg"
-    imageWidth: 150
-    imageHeight: 150
+    imageUrl: "/images/Banner.png"
+    imageWidth: 1106
+    imageHeight: 261
     imageTitle: img
     buttons:
       - name: Click here to view my posts
