@@ -19,7 +19,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["/images/dog.jpg"]
+  images: ["/images/Banner.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark
   disableThemeToggle: true
@@ -56,9 +56,9 @@ params:
     enabled: true # needs to be explicitly set
     title: Matthew Marsh's Projects and Blog
     subtitle: "Welcome!"
-    imageUrl: "/images/Banner.png"
-    imageWidth: 1106
-    imageHeight: 261
+    imageUrl: "/images/dog.jpg"
+    imageWidth: 150
+    imageHeight: 150
     imageTitle: img
     buttons:
       - name: Click here to view my posts
