@@ -58,7 +58,7 @@ Used a 3D model that Justin made.
 
 6. Once I had the MP3 file generated and downloaded, I just dragged and dropped my audio file into the box while it was plugged into my computer. (It appears as a USB storage device to a computer when plugged into a usb port).
 
-7. As simple as that, I plugged it into the USB port into my car and it worked, saying *"enjoy the ride!"* the moment my engine started up.
+7. As simple as that, I plugged it into the USB port in my car and it worked, saying *"enjoy the ride!"* the moment my engine started up.
 
 ### Big thanks again to [Justin](https://www.instagram.com/justinb.exe/) for coming up with this!
 
