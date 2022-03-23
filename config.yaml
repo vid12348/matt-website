@@ -63,6 +63,8 @@ params:
     buttons:
       - name: Click here to view my posts
         url: posts
+      - name: About Me
+        url: about-me
     #  - name: Tags
     #    url: tags
 
