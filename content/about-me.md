@@ -13,7 +13,7 @@ I am currently Interning at an IT Company called TNTMAX, where I am learning var
 
 Aside from technology, I enjoy skateboarding and playing video games.
 
-### Thanks for reading! *Matthew Marsh*
+### Thanks for reading! -*Matthew Marsh*
 
 ![](/images/bar.png) 
 
