@@ -55,7 +55,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Matthew Marsh's Projects and Blog
-    subtitle: "Welcome!"
+    subtitle: "Any Questions? email me at: matt@mattmarsh.tech"
     imageUrl: "/images/dog.jpg"
     imageWidth: 150
     imageHeight: 150
