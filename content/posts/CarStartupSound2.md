@@ -5,7 +5,7 @@ draft: true
 author: ["Matthew Marsh"]
 comments: true
 params:
-    ShowShareButtons: true
+    ShowShareButtons: false
     cover.image: "/images/carstartupsound/musicboxcover.png"
 ---
 ![](/images/banners/banner.png) 
