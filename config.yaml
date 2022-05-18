@@ -14,6 +14,9 @@ minify:
   disableXML: true
   minifyOutput: true
 
+disqusShortname: matthews-workshop
+
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Matthew_Marsh's_Technology_Blog
@@ -33,7 +36,7 @@ params:
   ShowCodeCopyButtons: false
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
   showtoc: false
